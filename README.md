@@ -34,7 +34,7 @@ Data analysis and visualization of COVID-19 cases and trends.
 
 **Tools:** Power BI
 
-[View Project](./02-COVID-19-Analysis)
+[View Project](./test_akulaku_febianne.pbix)
 
 ## 📫 Contact
 

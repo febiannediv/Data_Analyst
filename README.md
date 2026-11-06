@@ -21,20 +21,27 @@ data driven decision making.
 
 ### 01. Sales Analysis
 
-Analysis of sales transaction data to identify sales performance,
-customer trends, and product performance.
-
-**Tools:** SQL, Python, Excel
-
-[View Project](./01-Sales-Analysis)
-
-### 02. COVID-19 Data Analysis
-
-Data analysis and visualization of COVID-19 cases and trends.
+Analysis of sales transaction data to identify customer trends, Loan Performance and Risk Analysis.
 
 **Tools:** Power BI
 
-[View Project](./test_akulaku_febianne.pbix)
+[View Project](./Customer & Risk Analyst.pbix)
+
+**Tools:** Python (Google Colab)
+
+[View Project](./https://colab.research.google.com/drive/1SoKD1M4EzXh7LaTh5Mb2X4j-Zv21RDfX?usp=sharing)
+
+**Tools:** SQL (Big Query)
+
+[View Project](./https://colab.research.google.com/drive/1SoKD1M4EzXh7LaTh5Mb2X4j-Zv21RDfX?usp=sharing)(https://console.cloud.google.com/bigquery?sq=524544333405:d24b64a6224846ffa998006bcff0bc65)
+### 02. Retention Cohort
+
+Retention Cohort analysis tracks how many users continue using a product or service over time after their first interaction or registration.
+
+**Tools:** Google Looker
+
+[View Project](./https://datastudio.google.com/reporting/efdf7f57-57eb-4deb-9f63-e636c62cc7d4)
+
 
 ## 📫 Contact
 

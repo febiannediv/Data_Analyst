@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 <p align="center">
   <img src="./profile.png" alt="Febianne Diva Prinita" width="250"/>
@@ -24,13 +24,13 @@
 
 Hi! I'm **Febianne Diva Prinita**, a Data Analyst with experience in analyzing business and market data to generate insights that support **data-driven decision making**.
 
-- 📊 I work with **SQL, Python, Excel, Power BI, Tableau, and Looker Studio**
-- 🧹 I enjoy the full workflow: cleaning messy data, finding patterns, and telling the story through dashboards
-- 📫 Open to Data Analyst opportunities. Let's connect!
+- I work with **SQL, Python, Excel, Power BI, Tableau, and Looker Studio**
+- I enjoy the full workflow: cleaning data, finding patterns, and telling the story through dashboards
+- Open to Data Analyst opportunities. Let's connect!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Hi! I'm **Febianne Diva Prinita**, a Data Analyst with experience in analyzing b
 
 ---
 
-## 📊 Projects
+## Projects
 
 Each project uses a **different dataset and tool**, so you can see how I approach different kinds of business problems.
 
@@ -180,7 +180,7 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always happy to talk about data, analytics, and new opportunities.
 

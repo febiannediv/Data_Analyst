@@ -1,16 +1,16 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=200&section=header&text=Febianne%20Diva%20Prinita&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20Portfolio&descAlignY=58&descSize=20" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,100:F472B6&height=200&section=header&text=Febianne%20Diva%20Prinita&fontSize=42&fontColor=9D174D&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20Portfolio&descAlignY=58&descSize=20" alt="Header banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%E2%86%92+Analysis+%E2%86%92+Visualization" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=DB2777&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%E2%86%92+Analysis+%E2%86%92+Visualization" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-febianne--diva--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febianne-diva-p)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febiprinita17299@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-febianne--diva--p-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febianne-diva-p)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febiprinita17299@gmail.com)
 
 </div>
 
@@ -34,7 +34,7 @@ Hi! I'm **Febianne Diva Prinita**, a Data Analyst with experience in analyzing b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,gcp,powerbi,tableau,excel,github,git&perline=8" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,mysql,gcp,powerbi,tableau,excel,github,git&perline=8&theme=light" alt="Skills" />
 
 </div>
 
@@ -93,7 +93,7 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 ### 01. Customer & Risk Analysis
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F472B6?style=flat-square&logo=powerbi&logoColor=white)
 
 > An interactive dashboard that analyzes customer demographics and the loan portfolio to understand customer profile, loan performance, and risk.
 
@@ -107,13 +107,13 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Key insights:** [1-2 temuan utama dengan angka]
 
-[![Open file](https://img.shields.io/badge/Open%20.pbix%20file-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Customer%20&%20Risk%20Analyst.pbix)
+[![Open file](https://img.shields.io/badge/Open%20.pbix%20file-EC4899?style=for-the-badge&logo=powerbi&logoColor=white)](./Customer%20&%20Risk%20Analyst.pbix)
 
 ---
 
 ### 02. Car Showroom Sales Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F472B6?style=flat-square&logo=python&logoColor=white)
 
 > Case study: sales data from a car showroom with **10 branches**. The goal is to find which branch should add stock for which car category.
 
@@ -128,13 +128,13 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Key insights:** [1-2 temuan utama dengan angka]
 
-[![Open notebook](https://img.shields.io/badge/Open%20Notebook-3776AB?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1SoKD1M4EzXh7LaTh5Mb2X4j-Zv21RDfX?usp=sharing)
+[![Open notebook](https://img.shields.io/badge/Open%20Notebook-EC4899?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1SoKD1M4EzXh7LaTh5Mb2X4j-Zv21RDfX?usp=sharing)
 
 ---
 
 ### 03. SQL Analysis
 
-![SQL](https://img.shields.io/badge/SQL-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F472B6?style=flat-square&logo=googlebigquery&logoColor=white)
 
 > SQL queries in BigQuery to answer common business questions about products, orders, and bills.
 
@@ -147,13 +147,13 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Key insights:** [1-2 temuan utama dengan angka]
 
-[![View queries](https://img.shields.io/badge/View%20SQL%20Queries-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://console.cloud.google.com/bigquery?sq=524544333405:d24b64a6224846ffa998006bcff0bc65)
+[![View queries](https://img.shields.io/badge/View%20SQL%20Queries-EC4899?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://console.cloud.google.com/bigquery?sq=524544333405:d24b64a6224846ffa998006bcff0bc65)
 
 ---
 
 ### 04. Excel Analysis
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-F472B6?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 > Spreadsheet exercises on payroll and sales data using lookup formulas, conditional logic, and a pivot table.
 
@@ -165,13 +165,13 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Key insights:** [1-2 temuan utama, jika ada]
 
-[![Open spreadsheet](https://img.shields.io/badge/Open%20Spreadsheet-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://docs.google.com/spreadsheets/d/1cA_JeeBaKDawIML7nxwLpMwZ5ShdYJIW/edit?usp=sharing&ouid=111866368139436389048&rtpof=true&sd=true)
+[![Open spreadsheet](https://img.shields.io/badge/Open%20Spreadsheet-EC4899?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://docs.google.com/spreadsheets/d/1cA_JeeBaKDawIML7nxwLpMwZ5ShdYJIW/edit?usp=sharing&ouid=111866368139436389048&rtpof=true&sd=true)
 
 ---
 
 ### 05. Retention Cohort Analysis
 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-F472B6?style=flat-square&logo=looker&logoColor=white)
 
 > Cohort analysis groups users by when they first installed the app, then tracks how many of them stay from install until they uninstall. It shows how well the app keeps its users over time.
 
@@ -181,7 +181,7 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Key insights:** [1-2 temuan utama dengan angka]
 
-[![View Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-2563EB?style=for-the-badge)](https://datastudio.google.com/reporting/efdf7f57-57eb-4deb-9f63-e636c62cc7d4)
+[![View Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-EC4899?style=for-the-badge)](https://datastudio.google.com/reporting/efdf7f57-57eb-4deb-9f63-e636c62cc7d4)
 
 ---
 
@@ -194,6 +194,6 @@ I'm always happy to talk about data, analytics, and new opportunities.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=100&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,100:F472B6&height=100&section=footer" alt="Footer" width="100%"/>
 
 </div>

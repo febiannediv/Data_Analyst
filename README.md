@@ -19,7 +19,7 @@
 ## 👋 About Me
 
 <p align="center">
-  <img src="./profil.jpeg" alt="Febianne Diva Prinita" width="160"/>
+  <img src="./profile.png" alt="Febianne Diva Prinita" width="250"/>
 </p>
 
 Hi! I'm **Febianne Diva Prinita**, a Data Analyst with experience in analyzing business and market data to generate insights that support **data-driven decision making**.
@@ -40,7 +40,7 @@ Hi! I'm **Febianne Diva Prinita**, a Data Analyst with experience in analyzing b
 
 | Category | Tools |
 |---|---|
-| **Data Analysis** | SQL (BigQuery), Python (Pandas, Google Colab), Microsoft Excel |
+| **Data Analysis** | SQL (BigQuery), Python (Visual Studio Code, Google Colab), Microsoft Excel |
 | **Data Visualization** | Power BI, Tableau, Looker Studio |
 | **Core Skills** | Data Cleaning, Data Analysis, Data Visualization, Cohort Analysis |
 
@@ -105,7 +105,6 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 - Total loan disbursed and active loans
 - Loan status distribution, and more
 
-**Key insights:** [1-2 temuan utama dengan angka]
 
 [![Open file](https://img.shields.io/badge/Open%20.pbix%20file-EC4899?style=for-the-badge&logo=powerbi&logoColor=white)](./Customer%20&%20Risk%20Analyst.pbix)
 
@@ -126,7 +125,6 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Business value:** the last analysis helps decide which branch needs extra stock in which car category.
 
-**Key insights:** [1-2 temuan utama dengan angka]
 
 [![Open notebook](https://img.shields.io/badge/Open%20Notebook-EC4899?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1SoKD1M4EzXh7LaTh5Mb2X4j-Zv21RDfX?usp=sharing)
 
@@ -145,7 +143,6 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 - Unsold products, identified with `LEFT JOIN`
 - Products priced above the average price (subquery), and more
 
-**Key insights:** [1-2 temuan utama dengan angka]
 
 [![View queries](https://img.shields.io/badge/View%20SQL%20Queries-EC4899?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://console.cloud.google.com/bigquery?sq=524544333405:d24b64a6224846ffa998006bcff0bc65)
 
@@ -163,7 +160,6 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 - `IF` to mark sales as "Tercapai" when turnover is at least 1,000,000
 - Pivot table on the "Bill all" sheet by `NAMA BARANG` to summarize QTY, price, discount, and net total (answers in the "Jawaban PIVOT" sheet)
 
-**Key insights:** [1-2 temuan utama, jika ada]
 
 [![Open spreadsheet](https://img.shields.io/badge/Open%20Spreadsheet-EC4899?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://docs.google.com/spreadsheets/d/1cA_JeeBaKDawIML7nxwLpMwZ5ShdYJIW/edit?usp=sharing&ouid=111866368139436389048&rtpof=true&sd=true)
 
@@ -179,7 +175,6 @@ Each project uses a **different dataset and tool**, so you can see how I approac
 
 **Business question:** How long do users keep the app after installing it, and when do they drop off?
 
-**Key insights:** [1-2 temuan utama dengan angka]
 
 [![View Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-EC4899?style=for-the-badge)](https://datastudio.google.com/reporting/efdf7f57-57eb-4deb-9f63-e636c62cc7d4)
 
